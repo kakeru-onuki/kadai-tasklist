@@ -8,7 +8,7 @@
     <body>
         <div id="wrapper">
             <div id="header">
-                <h1>メッセージボードアプリケーション</h1>
+                <h1>タスクリストアプリ</h1>
             </div>
             <div id="content">
                 ${param.content}
